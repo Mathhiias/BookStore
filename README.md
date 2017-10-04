@@ -13,6 +13,6 @@
 	**Books** contain an ID, an Author's ID with references to the Authors table, a title, the number of pages, 
 	the year the book was published, the price and a brief description of the book.
 
-	The website can be accessed by clicking [here](http://entcomp-book-store.azurewebsites.net "Mathias' Book Store")
+	The website can be accessed by clicking [here](http://entcomp-book-store.azurewebsites.net)
 
 	
