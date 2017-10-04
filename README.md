@@ -8,9 +8,9 @@ are able to add/edit/delete Books or Authors. The app is being deployed through 
        
 ### Data Managed
 
-The data being managed in this project is related to two objects: Author and Book.
-**Authors** contain an ID, the author's name, their date of birth and the country where they are from.
-**Books** contain an ID, an Author's ID with references to the Authors table, a title, the number of pages, 
+The data being managed in this project is related to two objects: Author and Book.*same paragraph*
+**Authors** contain an ID, the author's name, their date of birth and the country where they are from.*same paragraph*
+**Books** contain an ID, an Author's ID with references to the Authors table, a title, the number of pages, *same paragraph*
 the year the book was published, the price and a brief description of the book.
 
 The website can be accessed by clicking [here](http://entcomp-book-store.azurewebsites.net)
